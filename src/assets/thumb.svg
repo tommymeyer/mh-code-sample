@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>spun</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.000024,7.2e-05 C9.313728,7.2e-05 12.00006,2.686308 12.00006,6.000012 C12.00006,9.31374 9.313728,12.00006 6.000024,12.00006 C2.686368,12.00006 4.8e-05,9.31374 4.8e-05,6.000012 C4.8e-05,2.686308 2.686368,7.2e-05 6.000024,7.2e-05 Z" id="path-1"></path>
+        <filter x="-41.7%" y="-33.3%" width="183.3%" height="183.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-92.000000, -183.000000)">
+            <g id="Toggle" transform="translate(71.000000, 183.000000)">
+                <g id="Slider" transform="translate(24.000000, 2.000000)">
+                    <g id="spun">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill-opacity="0" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: hue;" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

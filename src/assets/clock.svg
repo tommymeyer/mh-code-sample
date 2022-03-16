@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="59px" viewBox="0 0 59 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Combined shape 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M27.23624,33.565375 L26.363675,33.565375 L26.363675,26.747 L27.47385,25.677075 L28.565425,26.747 L28.565425,31.7807823 L31.6853,34.9009 L31.67365,36.54085 L30.128525,36.457525 L27.23624,33.565375 Z M27.499975,20.00015 C34.40355,20.00015 40.000025,25.5965 40.000025,32.499825 C40.000025,39.403475 34.40355,44.99985 27.499975,44.99985 C20.5964,44.99985 15.00005,39.403475 15.00005,32.499825 C15.00005,25.5965 20.5964,20.00015 27.499975,20.00015 Z M27.5172,24.078475 C22.884125,24.078475 19.128225,27.834225 19.128225,32.4673 C19.128225,37.10045 22.884125,40.856225 27.5172,40.856225 C32.1501,40.856225 35.906,37.10045 35.906,32.4673 C35.906,27.834225 32.1501,24.078475 27.5172,24.078475 Z" id="path-1"></path>
+        <filter x="-108.0%" y="-108.0%" width="316.0%" height="316.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.5529412   0 0 0 0 0.8627451   0 0 0 0 0.8784314  0 0 0 0.66 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-69.000000, -108.000000)">
+            <g id="Screen" transform="translate(71.000000, 105.000000)">
+                <g id="Combined-shape-23">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#C3FEFE" stroke-width="1" d="M30.3466626,35.9685621 L31.1773846,36.013361 L31.1838267,35.1065219 L28.065425,31.9878777 L28.065425,26.9570465 L27.470906,26.3743191 L26.863675,26.9595346 L26.863675,33.065375 L27.44334,33.065375 L30.3466626,35.9685621 Z M27.499975,20.50015 C20.8725795,20.50015 15.50005,25.8726053 15.50005,32.499825 C15.50005,39.1273266 20.8725363,44.49985 27.499975,44.49985 C34.1274391,44.49985 39.500025,39.1273012 39.500025,32.499825 C39.500025,25.8726307 34.1273959,20.50015 27.499975,20.50015 Z M27.5172,23.578475 C32.4262969,23.578475 36.406,27.5581371 36.406,32.4673 C36.406,37.3765299 32.4263049,41.356225 27.5172,41.356225 C22.6079488,41.356225 18.628225,37.3765585 18.628225,32.4673 C18.628225,27.5581085 22.6079568,23.578475 27.5172,23.578475 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
